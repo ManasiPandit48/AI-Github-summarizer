@@ -1,0 +1,33 @@
+# Core Libraries
+streamlit
+fastapi
+pygithub
+plotly
+graphviz
+requests
+pyyaml
+trufflehog
+
+# Transformers and LLMs
+transformers
+torch
+sentence-transformers
+gpt4all
+
+# Export Utilities
+reportlab
+pandas
+openpyxl
+
+# Security Tools
+safety
+
+# Authentication
+authlib
+
+# Visualization
+plotly-express
+matplotlib
+
+# Helpers
+python-dotenv
